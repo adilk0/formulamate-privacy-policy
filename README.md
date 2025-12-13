@@ -1,133 +1,158 @@
-🔒 Privacy Policy for FormulaMate
+# 🔒 Privacy Policy — FormulaMate
 
-Last updated: December 13, 2025
+> **FormulaMate** is a productivity-focused Android app providing Excel formulas, scripts, and smart work tips.  
+> This document explains how data is handled when you use the app.
 
-FormulaMate (“the app”, “we”, “our”, “us”) is developed by Adil Khan.
-This Privacy Policy explains how information is handled when you use FormulaMate.
-By using the app, you agree to the practices described below.
+📅 **Last updated:** December 13, 2025
 
-1. Information We Collect
-1.1 Information You Provide
+---
 
-FormulaMate does not require you to create an account or sign in.
-We do not ask for personal information such as your name, phone number, or address.
+## 📌 Overview
 
-If you contact us via email, your email address is used only to respond to your inquiry.
+FormulaMate (“the app”, “we”, “our”) is developed by **Adil Khan**.  
+We respect your privacy and are committed to transparency.
 
-1.2 Automatically Collected Data (Non-Personal)
+✅ No user accounts  
+✅ No forced sign-in  
+✅ No backend servers by default  
 
-FormulaMate uses Google AdMob to display banner, interstitial, and rewarded ads.
+By using FormulaMate, you agree to the practices described below.
 
-AdMob and related ad networks may automatically collect non-personal information such as:
+---
 
-Device identifiers (Advertising ID)
+## 📥 1. Information We Collect
 
-IP address and approximate (non-GPS) location
+### ✉️ 1.1 Information You Provide
+- FormulaMate does **not** require registration or login.
+- We do **not** ask for your name, phone number, or address.
+- If you contact us via email, your email address is used **only to reply**.
 
-App usage events and ad interaction data
+---
 
-Crash reports and diagnostics
+### 📊 1.2 Automatically Collected (Non-Personal) Data
+FormulaMate uses **Google AdMob** to show ads (banner, interstitial, rewarded).
 
-This data is used to:
+Ad networks may collect:
+- Advertising ID
+- IP address & approximate location (non-GPS)
+- App interaction & ad engagement data
+- Crash reports & diagnostics
 
-Serve ads
+🔍 **Why this data is used**
+- Serve and measure ads
+- Prevent fraud
+- Improve app performance & stability
 
-Measure ad performance
+🔗 Google Ads policy:  
+https://policies.google.com/technologies/ads
 
-Prevent fraud
+---
 
-Improve app stability
+### 🎥 1.3 Rewarded Ads
+When you watch a rewarded ad:
+- The ad network verifies ad completion
+- Anonymous data may be processed for reward validation
 
-For more information, see Google Ads policies:
-👉 https://policies.google.com/technologies/ads
+🚫 FormulaMate does **not** track individual viewing behavior.
 
-1.3 Rewarded Ads
+---
 
-When you choose to watch a rewarded ad, the ad network may collect anonymous data required to deliver the ad and verify the reward.
+## ⚙️ 2. How We Use Information
 
-FormulaMate does not track individual ad viewing behavior.
+Collected data is used only to:
 
-2. How We Use Information
+- 📢 Display ads via Google AdMob
+- 🔓 Unlock temporary Pro features (rewarded ads)
+- ♻️ Restore Pro purchases via Google Play
+- 🛠 Improve app performance and stability
+- 🛡 Prevent abuse and fraud
 
-We use collected data for the following purposes:
+❌ We do **not** sell, rent, or trade personal data.
 
-Displaying ads via Google AdMob
+---
 
-Unlocking temporary Pro features after rewarded ads
+## 💳 3. One-Time Pro Purchase (In-App Purchase)
 
-Restoring Pro purchases made through Google Play
+FormulaMate offers an optional **one-time Pro upgrade** using **Google Play Billing**.
 
-Improving app performance, usability, and stability
+✔ Secure payment handled by Google  
+✔ No payment details stored by FormulaMate  
+✔ Purchases linked to your Google Play account  
+✔ Pro can be restored after reinstall  
 
-Preventing abuse and fraud
+🚫 We never see your card details, UPI info, or transaction IDs.
 
-We do not sell or rent personal data to third parties.
+---
 
-3. One-Time Pro Purchase (In-App Purchase)
+## 🗂 4. Pro Features & Local Storage
 
-FormulaMate offers an optional one-time Pro purchase using Google Play Billing.
+When Pro is unlocked (rewarded ad or purchase):
+- Minimal data (Pro status / expiry) is saved locally
+- Stored using Android’s secure `SharedPreferences`
 
-Payments are processed securely by Google Play
+📍 This data:
+- Lives **only on your device**
+- Is **never sent** to our servers
 
-We do not collect or store payment details
+---
 
-Purchases are linked to your Google Play account
+## 👶 5. Children’s Privacy
 
-Pro purchases can be restored after reinstalling the app
+FormulaMate is **not intended for children under 13**.
 
-FormulaMate does not have access to your card details, UPI information, or transaction IDs.
+We do not knowingly collect personal data from children.  
+If you believe a child has shared personal information, please contact us.
 
-4. Pro Features and Local Data
+---
 
-When Pro is unlocked (via rewarded ads or one-time purchase), the app stores minimal local data (such as Pro status or expiry time) in Android’s protected local storage (SharedPreferences).
+## 🔐 6. Security Practices
 
-This data:
+We follow standard Android security practices:
 
-Is stored only on your device
+- 🔑 No passwords or user accounts stored
+- 💰 Payments handled entirely by Google Play
+- 📱 Local data protected by Android OS security
 
-Is not transmitted to our servers
+---
 
-5. Children’s Privacy
+## 🎛 7. Your Choices
 
-FormulaMate is not intended for children under the age of 13.
+You are always in control:
 
-We do not knowingly collect personal information from children.
-If you believe a child has provided personal data, please contact us and we will take appropriate action.
+- Disable personalized ads:  
+  👉 https://adssettings.google.com
+- Unlock features via rewarded ads or Pro purchase
+- Uninstall the app to remove all local data
 
-6. Security
+---
 
-We take reasonable steps to protect user data:
+## 🔄 8. Policy Updates
 
-No user accounts or passwords are stored by FormulaMate
+This Privacy Policy may be updated to reflect:
+- New features
+- Policy changes
+- Legal requirements
 
-Payments are handled entirely by Google Play
+🗓 Updates will be shown by changing the **“Last updated”** date above.
 
-Local app data is protected by Android’s security framework
+---
 
-7. Your Choices
+## 📬 9. Contact Us
 
-You can:
+For questions, feedback, or requests:
 
-Disable personalized ads via Google settings:
-👉 https://adssettings.google.com
+**Developer:** Adil Khan  
+📧 **Email:** formulamate786@gmail.com  
 
-Use rewarded ads or purchase Pro to unlock features
+We welcome suggestions for new formulas, scripts, and features.
 
-Uninstall the app to remove locally stored data
+---
 
-8. Changes to This Privacy Policy
+## ✅ Summary
 
-We may update this Privacy Policy from time to time.
-Any changes will be reflected by updating the “Last updated” date at the top of this page.
+- Ads powered by **Google AdMob**
+- Payments handled by **Google Play Billing**
+- No login, no backend servers
+- Privacy-first design
 
-9. Contact Us
-
-If you have questions about this Privacy Policy, please contact:
-
-Developer: Adil Khan
-Email: formulamate786@gmail.com
-
-📌 Summary
-
-FormulaMate uses Google AdMob for ads and Google Play Billing for one-time Pro purchases.
-No backend servers or user accounts are required.
+Thank you for using **FormulaMate** 🚀
