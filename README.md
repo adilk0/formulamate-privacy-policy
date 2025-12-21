@@ -57,13 +57,31 @@ When you watch a rewarded ad:
 
 ---
 
-## ⚙️ 2. How We Use Information
+## 🔔 2. Notifications
+
+FormulaMate may send **optional daily notifications** to remind you about a featured formula or script.
+
+🔔 **Notification details:**
+- Notifications are scheduled **locally on your device**
+- No personal data is sent to any server
+- Notifications do **not** contain ads or tracking links
+
+📱 **Permissions:**
+- On Android 13+, notification permission is requested explicitly
+- You can enable or disable notifications anytime from device settings
+
+🚫 FormulaMate does **not** track notification opens or interactions.
+
+---
+
+## ⚙️ 3. How We Use Information
 
 Collected data is used only to:
 
 - 📢 Display ads via Google AdMob
 - 🔓 Unlock temporary Pro features (rewarded ads)
 - ♻️ Restore Pro purchases via Google Play
+- 🔔 Show optional daily notifications
 - 🛠 Improve app performance and stability
 - 🛡 Prevent abuse and fraud
 
@@ -71,7 +89,7 @@ Collected data is used only to:
 
 ---
 
-## 💳 3. One-Time Pro Purchase (In-App Purchase)
+## 💳 4. One-Time Pro Purchase (In-App Purchase)
 
 FormulaMate offers an optional **one-time Pro upgrade** using **Google Play Billing**.
 
@@ -84,7 +102,7 @@ FormulaMate offers an optional **one-time Pro upgrade** using **Google Play Bill
 
 ---
 
-## 🗂 4. Pro Features & Local Storage
+## 🗂 5. Pro Features & Local Storage
 
 When Pro is unlocked (rewarded ad or purchase):
 - Minimal data (Pro status / expiry) is saved locally
@@ -96,7 +114,7 @@ When Pro is unlocked (rewarded ad or purchase):
 
 ---
 
-## 👶 5. Children’s Privacy
+## 👶 6. Children’s Privacy
 
 FormulaMate is **not intended for children under 13**.
 
@@ -105,7 +123,7 @@ If you believe a child has shared personal information, please contact us.
 
 ---
 
-## 🔐 6. Security Practices
+## 🔐 7. Security Practices
 
 We follow standard Android security practices:
 
@@ -115,18 +133,19 @@ We follow standard Android security practices:
 
 ---
 
-## 🎛 7. Your Choices
+## 🎛 8. Your Choices
 
 You are always in control:
 
 - Disable personalized ads:  
   👉 https://adssettings.google.com
+- Enable or disable notifications from device settings
 - Unlock features via rewarded ads or Pro purchase
 - Uninstall the app to remove all local data
 
 ---
 
-## 🔄 8. Policy Updates
+## 🔄 9. Policy Updates
 
 This Privacy Policy may be updated to reflect:
 - New features
@@ -137,7 +156,7 @@ This Privacy Policy may be updated to reflect:
 
 ---
 
-## 📬 9. Contact Us
+## 📬 10. Contact Us
 
 For questions, feedback, or requests:
 
@@ -152,6 +171,7 @@ We welcome suggestions for new formulas, scripts, and features.
 
 - Ads powered by **Google AdMob**
 - Payments handled by **Google Play Billing**
+- Optional daily notifications
 - No login, no backend servers
 - Privacy-first design
 
